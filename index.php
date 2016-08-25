@@ -1,5 +1,6 @@
 <?php
 
+# Comment
 print gmdate("Y-m-d\TH:i:s\Z");
 $xforwardedfor  = getenv('HTTP_X_FORWARDED_FOR');
 
